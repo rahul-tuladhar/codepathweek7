@@ -12,6 +12,7 @@ Time spent: **3** hours spent in total
     - Tested in version: 4.8
     - Fixed in version: 4.8.2
   - [ ] GIF Walkthrough: 
+  ![alt text](https://github.com/rahul-tuladhar/codepathweek7/blob/master/gifs/4-8-xss1.gif)
   - [ ] Steps to recreate: 
     - Go to the “appearance tab” on the dashboard then click on “editor”
     - From there you can edit certain files where they don’t already have template names
@@ -25,6 +26,8 @@ Time spent: **3** hours spent in total
     - Tested in version: 4.8
     - Fixed in version: 
   - [ ] GIF Walkthrough: 
+    ![alt text](https://github.com/rahul-tuladhar/codepathweek7/blob/master/gifs/4-8-xss2.gif)
+
   - [ ] Steps to recreate: 
       - Go to dashboard
       - Go to add new post
@@ -39,6 +42,8 @@ Time spent: **3** hours spent in total
     - Tested in version: 4.8
     - Fixed in version: 
   - [ ] GIF Walkthrough: 
+    ![alt text](https://github.com/rahul-tuladhar/codepathweek7/blob/master/gifs/4-8-xss3.gif)
+
   - [ ] Steps to recreate: 
     - Go to a post created on the site
      - Add in <img src=1 onerror=alert(document.cookie)> or other code to the input field
